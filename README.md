@@ -4,3 +4,6 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me anshidanu99@gmail.com
 
+
+
+[![Anshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshidanu7861)](https://github.com/anshidanu7861/github-readme-stats)
